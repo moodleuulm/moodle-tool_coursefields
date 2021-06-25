@@ -4,8 +4,9 @@ moodle-tool_coursedates
 Changes
 -------
 
-### Unreleased
+### v3.11-r1
 
+* 2021-06-13 - Prepare compatibility for Moodle 3.11.
 * 2021-02-05 - Move Moodle Plugin CI from Travis CI to Github actions
 
 ### v3.10-r1
